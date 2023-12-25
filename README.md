@@ -1,18 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/-dG9Axte)
-# Final
-
-
-
-## Instructions
-
-* Write C++ code to complete the programs based on the following prompts.
-* **The final assignment is done individually.**
-* All work should be your own. Do not discuss with other students or work in groups. As usual, make sure to list any resources you refer to in the ABOUT.txt. In the ABOUT.txt, there are two lists, one for each of these types:
-  * Main resources: You may refer to the book, course website, linked readings and C++ reference sites, and any prior assignment, Repls, or notes you have taken.
-  * Other resources: These include any other external resources (such as Stack Overflow, ChatGPT, etc); they can be used but will impact extra credit.
-* Write your answers for each question in the header file with the same name as the question.
-* **Do not include additional headers or modify the TEST_ files.**
-* No redos on the final, but it can be turned in late.
 
 
 
